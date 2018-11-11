@@ -23,7 +23,7 @@ body {
 .robot {
   width: 320px;
   margin: 0 auto;
-  padding-top: 2.5em;
+  padding-top: 3em;
   position: relative;
 }
 
@@ -47,13 +47,13 @@ body {
 .robot-head-left {
   position: absolute;
   left: 35px;
-  top: 0;
+  top: 10px;
 }
 
 .robot-head-right {
   position: absolute;
   right: 35px;
-  top: 0;
+  top: 10px;
 }
 
 .robot:hover .robot-head-right {
