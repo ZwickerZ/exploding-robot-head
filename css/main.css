@@ -33,7 +33,7 @@ body {
 .robot-brain {
   width: 46px;
   position: absolute;
-  top: 30px;
+  top: 20px;
   left: 135px;
   z-index: -100;
 }
@@ -67,4 +67,6 @@ body {
 
 .robot:hover .robot-brain {
   z-index: 100;
+  top: 30px;
+  left: 135px;
 }
